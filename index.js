@@ -25,6 +25,6 @@ function showDice() {
     }
 
 }
-showDice();
+
 
 
